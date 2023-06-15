@@ -32,7 +32,7 @@ a{
 /* Navbar - End */
 
 
-/*  *************/
+/*  Home Page - Start  */
 .image-container{
     display: flex;
     flex-wrap: wrap;
@@ -42,10 +42,6 @@ a{
 .image-container img{
     height: 600px;
 }
-/*  */
-
-
-/*  *************/
 .text-container{
     background-color: #fafafa;
     padding: 25px 100px;
@@ -53,7 +49,6 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 .paragraph{
     width: 1000px;
@@ -70,17 +65,12 @@ a{
 .text{
     line-height: 25px;
 }
-/*  */
 
-
-/*  ************/
 .image{
     margin: 25px 0px;
 }
-/*  */
+/* Home Page - End */
 
-
-/*  ****************/
 .container{
     display: flex;
     justify-content: space-between;
@@ -104,7 +94,6 @@ a{
     flex-wrap: wrap;
     gap: 30px;
 }
-/*  */
 
 /* Contact - Start */
 .contact{
@@ -169,7 +158,6 @@ a{
     flex-direction: column;
     gap: 16px;
 }
-
 /*  Contact - End */
 
 
